@@ -1,0 +1,45 @@
+[
+  {
+    "name": "iPhone 14 Pro",
+    "price": 999,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2024-03-15T00:00:00.000Z",
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "price": 1199,
+    "company": "Samsung"
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "price": 899,
+    "featured": false,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 11",
+    "price": 749,
+    "rating": 4.4,
+    "createdAt": "2024-02-28T00:00:00.000Z",
+    "company": "OnePlus"
+  },
+  {
+    "name": "iPhone 15",
+    "price": 799,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 1799,
+    "rating": 4.5,
+    "company": "Samsung"
+  },
+  {
+    "name": "Samsung S25 Ultra",
+    "price": 1799,
+    "company": "Samsung"
+  }
+]
