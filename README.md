@@ -1,5 +1,3 @@
----
-
 ### **REST API for Products**  
 🚀 Hosted API: [`https://restapi-production-60f6.up.railway.app/api/products`](https://restapi-production-60f6.up.railway.app/api/products)  
 
