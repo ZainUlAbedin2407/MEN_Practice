@@ -1,6 +1,6 @@
 [
   {
-    "name": "iPhone 14 Pro",
+    "name": "IPhone 14 Pro",
     "price": 999,
     "featured": true,
     "rating": 4.8,
@@ -26,7 +26,7 @@
     "company": "OnePlus"
   },
   {
-    "name": "iPhone 15",
+    "name": "IPhone 15",
     "price": 799,
     "featured": true,
     "company": "Apple"
@@ -35,11 +35,185 @@
     "name": "Samsung Galaxy Z Fold 5",
     "price": 1799,
     "rating": 4.5,
-    "company": "Samsung"
+    "company": "Samsung",
+    "featured": true
   },
   {
     "name": "Samsung S25 Ultra",
     "price": 1799,
+    "company": "Samsung"
+  },
+  {
+    "name": "Google Pixel 7a",
+    "price": 499,
+    "featured": true,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus Nord 3",
+    "price": 429,
+    "company": "OnePlus"
+  },
+  {
+    "name": "IPhone SE 2023",
+    "price": 429,
+    "rating": 4.2,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy A54",
+    "price": 449,
+    "company": "Samsung"
+  },
+  {
+    "name": "Google Pixel 6",
+    "price": 599,
+    "featured": false,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 10 Pro",
+    "price": 899,
+    "company": "OnePlus"
+  },
+  {
+    "name": "IPhone 14",
+    "price": 799,
+    "rating": 4.6,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Note 22",
+    "price": 1099,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Google Pixel 5",
+    "price": 399,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 9",
+    "price": 699,
+    "featured": false,
+    "company": "OnePlus"
+  },
+  {
+    "name": "IPhone 13 Mini",
+    "price": 699,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy S22",
+    "price": 899,
+    "company": "Samsung"
+  },
+  {
+    "name": "Google Pixel 4 XL",
+    "price": 499,
+    "rating": 4.1,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 8T",
+    "price": 599,
+    "featured": true,
+    "company": "OnePlus"
+  },
+  {
+    "name": "IPhone XR",
+    "price": 599,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "price": 799,
+    "company": "Samsung"
+  },
+  {
+    "name": "Google Pixel 3a",
+    "price": 349,
+    "rating": 3.9,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 7 Pro",
+    "price": 649,
+    "company": "OnePlus"
+  },
+  {
+    "name": "IPhone 12 Pro Max",
+    "price": 1099,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 999,
+    "company": "Samsung"
+  },
+  {
+    "name": "Google Pixel 2",
+    "price": 299,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 6T",
+    "price": 549,
+    "company": "OnePlus"
+  },
+  {
+    "name": "IPhone 11",
+    "price": 699,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy A72",
+    "price": 499,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Google Pixel 3",
+    "price": 399,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 5",
+    "price": 499,
+    "company": "OnePlus"
+  },
+  {
+    "name": "IPhone 8",
+    "price": 499,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Note 10",
+    "price": 899,
+    "company": "Samsung"
+  },
+  {
+    "name": "Google Pixel 2 XL",
+    "price": 349,
+    "rating": 4.0,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 3T",
+    "price": 449,
+    "company": "OnePlus"
+  },
+  {
+    "name": "IPhone 7",
+    "price": 399,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy S10",
+    "price": 799,
+    "rating": 4.3,
     "company": "Samsung"
   }
 ]
